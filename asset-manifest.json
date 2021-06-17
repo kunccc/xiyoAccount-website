@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/xiyoAccount-website/static/css/main.e7e7f3f5.chunk.css",
+    "main.js": "/xiyoAccount-website/static/js/main.f5be0132.chunk.js",
+    "main.js.map": "/xiyoAccount-website/static/js/main.f5be0132.chunk.js.map",
+    "runtime-main.js": "/xiyoAccount-website/static/js/runtime-main.757b7209.js",
+    "runtime-main.js.map": "/xiyoAccount-website/static/js/runtime-main.757b7209.js.map",
+    "static/js/2.5c9c373c.chunk.js": "/xiyoAccount-website/static/js/2.5c9c373c.chunk.js",
+    "static/js/2.5c9c373c.chunk.js.map": "/xiyoAccount-website/static/js/2.5c9c373c.chunk.js.map",
+    "index.html": "/xiyoAccount-website/index.html",
+    "static/css/main.e7e7f3f5.chunk.css.map": "/xiyoAccount-website/static/css/main.e7e7f3f5.chunk.css.map",
+    "static/js/2.5c9c373c.chunk.js.LICENSE.txt": "/xiyoAccount-website/static/js/2.5c9c373c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.757b7209.js",
+    "static/js/2.5c9c373c.chunk.js",
+    "static/css/main.e7e7f3f5.chunk.css",
+    "static/js/main.f5be0132.chunk.js"
+  ]
+}
